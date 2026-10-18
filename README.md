@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Ayush17281/leetcode-repo/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush17281/leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Ayush17281/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/Ayush17281/leetcode-repo/tree/master/0645-set-mismatch) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ayush17281/leetcode-repo/tree/master/2527-find-xor-beauty-of-array) |
 ## Math
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush17281/leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Ayush17281/leetcode-repo/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
