@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush17281/leetcode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Ayush17281/leetcode-repo/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Ayush17281/leetcode-repo/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush17281/leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ayush17281/leetcode-repo/tree/master/0283-move-zeroes) |
@@ -27,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Ayush17281/leetcode-repo/tree/master/0088-merge-sorted-array) |
 | [0645-set-mismatch](https://github.com/Ayush17281/leetcode-repo/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ayush17281/leetcode-repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Ayush17281/leetcode-repo/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush17281/leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ayush17281/leetcode-repo/tree/master/0283-move-zeroes) |
 ## Binary Search
