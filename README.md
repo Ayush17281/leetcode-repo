@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ayush17281/leetcode-repo/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/Ayush17281/leetcode-repo/tree/master/0645-set-mismatch) |
 | [2527-find-xor-beauty-of-array](https://github.com/Ayush17281/leetcode-repo/tree/master/2527-find-xor-beauty-of-array) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayush17281/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Math
 |  |
 | ------- |
@@ -43,4 +44,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ayush17281/leetcode-repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Depth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayush17281/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayush17281/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayush17281/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Matrix
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayush17281/leetcode-repo/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
