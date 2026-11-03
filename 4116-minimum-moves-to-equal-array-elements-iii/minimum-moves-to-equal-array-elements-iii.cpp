@@ -8,13 +8,18 @@ public:
         }
 
         int ans = 0 ;
-        int res ;
-        for(int i=0;i<n;i++) {
-            if(nums[i] < max_ele) {
-                res= max_ele - nums[i];
-                ans += res ;
-            }
+        // int res ;
+        // for(int i=0;i<n;i++) {
+        //     if(nums[i] < max_ele) {
+        //         res= max_ele - nums[i];
+        //         ans += res ;
+        //     }
+        // }
+        for(int x : nums) {
+            ans+=(max_ele - x);
         }
+
+        
 return ans ;
     }
 };
