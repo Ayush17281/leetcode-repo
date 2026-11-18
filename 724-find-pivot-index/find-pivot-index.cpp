@@ -6,15 +6,13 @@ public:
         for(int i=0;i<n;i++){
             total+=nums[i] ;
         }
-     for(int j=0;j<n;j++){
         int left_sum =0 ;
-        for(int k = 0 ;k<j;k++){
-            left_sum+=nums[k]; 
-        }
+     for(int j=0;j<n;j++){
          int right_sum = total - left_sum - nums[j] ;
          if(right_sum==left_sum) {
             return j;
          }
+         left_sum+=nums[j] ;
      }
      return -1 ;
     } 
